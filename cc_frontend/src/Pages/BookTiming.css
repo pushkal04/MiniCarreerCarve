@@ -1,0 +1,22 @@
+.page{
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top : 50px;
+
+}
+
+.studentForm {
+    border: outset #f33;
+    border-color: #000000;
+    border-style: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: space-between;
+    height: 30em;
+    width: 30em;
+    padding : 10px;
+}

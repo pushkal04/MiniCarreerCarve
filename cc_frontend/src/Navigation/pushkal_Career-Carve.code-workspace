@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "pushkal_Career-Carve",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"marquee.widgets.npm-stats.packageNames": [
+			"temp"
+		]
+	}
+}
